@@ -48,3 +48,7 @@ cd python-project-49
 ## Brain Gcd
 
 [![asciicast](https://asciinema.org/a/AJUUYSABA0sDAM2f.svg)](https://asciinema.org/a/AJUUYSABA0sDAM2f)
+
+## Brain Progression
+
+[![asciicast](https://asciinema.org/a/91HFkkO92mF7swYA.svg)](https://asciinema.org/a/91HFkkO92mF7swYA)
