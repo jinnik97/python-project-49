@@ -40,3 +40,7 @@ cd python-project-49
 ## Brain Even
 
 [![asciicast](https://asciinema.org/a/1ORSuDFVUqFt91gU.svg)](https://asciinema.org/a/1ORSuDFVUqFt91gU)
+
+## Brain Calc
+
+[![asciicast](https://asciinema.org/a/XRNYjJLCpWRymLEm.svg)](https://asciinema.org/a/XRNYjJLCpWRymLEm)
