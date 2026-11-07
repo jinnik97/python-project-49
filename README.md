@@ -44,3 +44,7 @@ cd python-project-49
 ## Brain Calc
 
 [![asciicast](https://asciinema.org/a/XRNYjJLCpWRymLEm.svg)](https://asciinema.org/a/XRNYjJLCpWRymLEm)
+
+## Brain Gcd
+
+[![asciicast](https://asciinema.org/a/AJUUYSABA0sDAM2f.svg)](https://asciinema.org/a/AJUUYSABA0sDAM2f)
