@@ -43,16 +43,16 @@ cd python-project-49
 
 ## Brain Calc
 
-[![asciicast](https://asciinema.org/a/XRNYjJLCpWRymLEm.svg)](https://asciinema.org/a/XRNYjJLCpWRymLEm)
+[![asciicast](https://asciinema.org/a/DmkhOCSOdcJM3YEi.svg)](https://asciinema.org/a/DmkhOCSOdcJM3YEi)
 
 ## Brain Gcd
 
-[![asciicast](https://asciinema.org/a/AJUUYSABA0sDAM2f.svg)](https://asciinema.org/a/AJUUYSABA0sDAM2f)
+[![asciicast](https://asciinema.org/a/5EAannwbtF495Lf8.svg)](https://asciinema.org/a/5EAannwbtF495Lf8)
 
 ## Brain Progression
 
-[![asciicast](https://asciinema.org/a/91HFkkO92mF7swYA.svg)](https://asciinema.org/a/91HFkkO92mF7swYA)
+[![asciicast](https://asciinema.org/a/jvB41jrJUqHRrjIq.svg)](https://asciinema.org/a/jvB41jrJUqHRrjIq)
 
 ## Brain Prime
 
-[![asciicast](https://asciinema.org/a/AqQYTJsz7YglKsEP.svg)](https://asciinema.org/a/AqQYTJsz7YglKsEP)
+[![asciicast](https://asciinema.org/a/t7TvLX8EuEWtW75y.svg)](https://asciinema.org/a/t7TvLX8EuEWtW75y)
