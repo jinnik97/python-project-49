@@ -52,3 +52,7 @@ cd python-project-49
 ## Brain Progression
 
 [![asciicast](https://asciinema.org/a/91HFkkO92mF7swYA.svg)](https://asciinema.org/a/91HFkkO92mF7swYA)
+
+## Brain Prime
+
+[![asciicast](https://asciinema.org/a/AqQYTJsz7YglKsEP.svg)](https://asciinema.org/a/AqQYTJsz7YglKsEP)
